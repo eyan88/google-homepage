@@ -120,7 +120,7 @@ main {
     font-size: 14px;
     border-width: 0px;
     color: #4c4f53;
-    background-color: #f2f2f2;
+    background-color: #ececec;
 }
 
 .searchbutton:hover {
@@ -134,7 +134,7 @@ main {
     font-size: 14px;
     border-width: 0px;
     color: #4c4f53;
-    background-color: #f2f2f2;
+    background-color: #ececec;
 }
 
 .luckybutton:hover {
