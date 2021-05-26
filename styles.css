@@ -119,6 +119,8 @@ main {
     border-radius: 2px;
     font-size: 14px;
     border-width: 0px;
+    color: #4c4f53;
+    background-color: #f2f2f2;
 }
 
 .searchbutton:hover {
@@ -131,6 +133,8 @@ main {
     border-radius: 2px;
     font-size: 14px;
     border-width: 0px;
+    color: #4c4f53;
+    background-color: #f2f2f2;
 }
 
 .luckybutton:hover {
