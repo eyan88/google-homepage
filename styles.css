@@ -58,11 +58,25 @@ main {
     padding-top: 220px;
 }
 
+.searchicon {
+    position: relative;
+    opacity: 35%;
+    left: 4px;
+    top: 2px;
+}
+
+.microphone {
+    position: relative;
+    opacity: 35%;
+    right: 4px;
+    top: 2px;
+}
+
 .searchbar {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     margin: 15px;
     border-radius: 24px;
     height: 44px;
@@ -80,6 +94,8 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    position: relative;
+    right: 10px;
     width: 450px;
     height: 30px;
     font-size: 14px;
